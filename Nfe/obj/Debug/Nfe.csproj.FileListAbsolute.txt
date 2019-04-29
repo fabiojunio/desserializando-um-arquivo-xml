@@ -1,0 +1,10 @@
+C:\Users\AlbertoUchoa\source\repos\Nfe\Nfe\bin\Debug\Nfe.exe.config
+C:\Users\AlbertoUchoa\source\repos\Nfe\Nfe\bin\Debug\Nfe.exe
+C:\Users\AlbertoUchoa\source\repos\Nfe\Nfe\bin\Debug\Nfe.pdb
+C:\Users\AlbertoUchoa\source\repos\Nfe\Nfe\obj\Debug\Nfe.csprojAssemblyReference.cache
+C:\Users\AlbertoUchoa\source\repos\Nfe\Nfe\obj\Debug\Nfe.Form1.resources
+C:\Users\AlbertoUchoa\source\repos\Nfe\Nfe\obj\Debug\Nfe.Properties.Resources.resources
+C:\Users\AlbertoUchoa\source\repos\Nfe\Nfe\obj\Debug\Nfe.csproj.GenerateResource.cache
+C:\Users\AlbertoUchoa\source\repos\Nfe\Nfe\obj\Debug\Nfe.csproj.CoreCompileInputs.cache
+C:\Users\AlbertoUchoa\source\repos\Nfe\Nfe\obj\Debug\Nfe.exe
+C:\Users\AlbertoUchoa\source\repos\Nfe\Nfe\obj\Debug\Nfe.pdb
